@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Be Healthy!</string>
+    <string name="start">START</string>
+
+    <string name="witaj">Witaj!</string>
+    <string name="menu">M E N U</string>
+
+    <string name="timer">Timer</string>
+    <string name="exercise">Ćwiczenia</string>
+    <string name="BMI">BMI</string>
+    <string name="water">Woda</string>
+    <string name="standup">Stand Up!</string>
+
+    <string-array name="opcje_wzrost">
+        <item>cm</item>
+        <item>m</item>
+    </string-array>
+
+    <string name="timer_start">Ustaw timer i ćwicz przez daną ilość czasu</string>
+    <string name="minutes">Przez ile minut chcesz ćwiczyć?</string>
+
+    <string name="reset">RESET</string>
+    <string name="time">00:00</string>
+    <string name="exerciseStart">Wciśnij START i zacznij ćwiczyć</string>
+
+    <string name="standStart0">Funkcja dla osób długo pracujących w jednej pozycji</string>
+    <string name="standStart1">Gdy włączysz Stand Up!,
+    będziesz otrzymywać przypomnienia co 30 minut, żeby wstać i się poruszyć</string>
+    <string name="alarmOff">Alarm wyłączony</string>
+    <string name="alarmOn">Alarm włączony</string>
+
+    <string name="checkWater">Monitoruj swoje spożycie wody</string>
+    <string name="liters">Zaleca się pić 2 l płynów dziennie</string>
+    <string name="goal">Cel nie został jeszcze osiągnięty</string>
+    <string name="percent">0%</string>
+    <string name="add">Dodaj napój</string>
+    <string name="list">Lista napojów spożytych w ciągu dnia</string>
+
+    <string name="add2">Dodaj</string>
+    <string name="back">Wróć</string>
+    <string name="ml">Podaj objętość (w ml):</string>
+    <string name="type">Podaj typ:</string>
+    <string name="type2">Typ</string>
+    <string name="timeDrink">Podaj godzinę spożycia:</string>
+    <string name="newDay">Nowy dzień</string>
+
+    <string name="choose">Wybierz filmik z ćwiczeniami</string>
+    <string name="watch">Oglądaj</string>
+
+    <string-array name="exercises">
+        <item>Rozgrzewka, 11 min</item>
+        <item>Lekki trening, 31 min</item>
+        <item>Intensywny trening, 16 min</item>
+    </string-array>
+</resources>
